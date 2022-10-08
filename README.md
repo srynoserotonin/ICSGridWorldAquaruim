@@ -43,3 +43,4 @@ specific to their type:
         
         
 (for typos blame doc copied from doc written by RDY)
+THIS PROJECT IS NO COMPLETE AND IS VERY BROKEN
