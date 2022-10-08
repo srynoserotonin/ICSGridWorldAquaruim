@@ -42,5 +42,4 @@ specific to their type:
         for 100-150 steps before they remove themselves from the gid.
         
         
-(for typos blame doc copied from doc written by RDY)
-THIS PROJECT IS NO COMPLETE AND IS VERY BROKEN
+THIS PROJECT IS NOT COMPLETE AND IS VERY BROKEN (for typos blame doc copied from doc written by RDY)
